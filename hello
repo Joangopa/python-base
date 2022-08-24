@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+#  Este programa imprime Hello World
+print("Hello, World!")
+print('joan'.upper())
+print(55 + 6)
